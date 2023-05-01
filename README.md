@@ -1,4 +1,4 @@
-# sign_language_action_recognition
+# Sign_language_action_recognition(Major_Project)
 Dumb people use hand signs to communicate, normal people have difficulty understanding their
 language. Hence there is a need of the systems which recognizes the different signs and conveys the
 information to the normal people.
